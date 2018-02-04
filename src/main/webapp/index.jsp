@@ -6,6 +6,7 @@
     <meta charset="UTF-8">
     <title>Document</title>
 </head>
+<!-kaishi->
 <style type="text/css">
     #container {
         width:980px;
@@ -41,7 +42,6 @@
     }
 </style>
 <body>
-<!-我就是想试一试git->
 <div id="container">
     <div id="header">顶部（header）</div>
     <div id="main">
