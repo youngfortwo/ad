@@ -20,9 +20,10 @@
     }
     /*中间部分面板样式*/
     #main {
-        width:100%;
-        height:400px;
-        border:1px #F00 solid;
+        width: 100%;
+        height: 400px;
+        border: 1px #F00 solid;
+    }
 
 
     /*底部面板样式*/
