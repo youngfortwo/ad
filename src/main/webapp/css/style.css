@@ -1,6 +1,4 @@
-body {
-    background: black;
-}
+
 
 .clock {
     position: absolute;
@@ -46,7 +44,7 @@ body {
 }
 
 .circle-1 {
-    background: white;
+    background: black;
     width: 12px;
     height: 12px;
 }
@@ -85,7 +83,7 @@ body {
 .thin-hand {
     width: 4px;
     height: 50px;
-    background: white;
+    background: black;
     transform: translate(-50%,-100%);
 }
 
@@ -93,7 +91,7 @@ body {
     width: 10px;
     height: 57px;
     border-radius: 10px;
-    background: white;
+    background: black;
     transform: translate(-50%,-100%) translateY(-18px);
 }
 
@@ -104,7 +102,7 @@ body {
 .hour-text {
     position: absolute;
     font: 40px Hei, Helvetica, Arial, sans-serif;
-    color: white;
+    color: black;
     transform: translate(-50%,-50%);
 }
 
@@ -118,12 +116,12 @@ body {
 .minute-text {
     position: absolute;
     font: 12px Avenir Next, Helvetica, Arial, sans-serif;
-    color: white;
+    color: black;
     transform: translate(-50%,-50%);
 }
 
 .minute-line {
-    background: white;
+    background: black;
     width: 1px;
     height: 9px;
     transform: translate(-50%,-100%) translateY(-131px);
